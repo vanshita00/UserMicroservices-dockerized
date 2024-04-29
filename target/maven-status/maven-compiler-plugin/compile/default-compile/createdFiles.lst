@@ -1,0 +1,7 @@
+com\example\UserMicroservicess\Service\impl\UserIMPL.class
+com\example\UserMicroservicess\Entity\User.class
+com\example\UserMicroservicess\UserController\UserController.class
+com\example\UserMicroservicess\UserMicroservicessApplication.class
+com\example\UserMicroservicess\Repo\UserRepo.class
+com\example\UserMicroservicess\Service\UserService.class
+com\example\UserMicroservicess\Dto\UserDto.class
